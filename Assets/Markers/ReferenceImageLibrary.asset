@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5603455749185227324
+  m_GuidHigh: 6847014905773927357
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5657640817355358053
+      m_GuidHigh: 5631810228380120201
+    m_SerializedTextureGuid:
+      m_GuidLow: 2748451935558108504
+      m_GuidHigh: 5379092001934336218
+    m_Size: {x: 0.5, y: 0.74882996}
+    m_SpecifySize: 1
+    m_Name: Skip
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4669724868936536751
+      m_GuidHigh: 1485573647552345734
+    m_SerializedTextureGuid:
+      m_GuidLow: 9719920967630080382
+      m_GuidHigh: 15399784964147900313
+    m_Size: {x: 0.5, y: 0.74882996}
+    m_SpecifySize: 1
+    m_Name: Freeze
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5706394693199278471
+      m_GuidHigh: 9158864604034500522
+    m_SerializedTextureGuid:
+      m_GuidLow: 16313224781018633843
+      m_GuidHigh: 322643210056358537
+    m_Size: {x: 0.5, y: 0.74882996}
+    m_SpecifySize: 1
+    m_Name: Ghost
+    m_Texture: {fileID: 0}
